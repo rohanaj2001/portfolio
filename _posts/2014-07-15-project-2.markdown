@@ -1,0 +1,15 @@
+---
+title: Ecell website
+subtitle: Full stack web-application
+layout: default
+modal-id: 3
+date: 2022-04-15
+img: treehouse.png
+thumbnail: treehouse-thumbnail.png
+alt: image-alt
+project-date: April 2022
+client: Ecell-Ramaiah
+category: Full Stack Web Development
+description: This is the website of Ecell-Ramaiah, designed by our team
+
+---
