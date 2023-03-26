@@ -1,4 +1,6 @@
 {% include css/bootstrap.min.css %}
 {% include css/agency.css %}
-{% include css/skills.css %}
+{% include css/hero-animation.css %}
+{% include css/googly-eyes.css %}
+{% include css/experience.css %}
 {{ content }}

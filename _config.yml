@@ -4,26 +4,25 @@ baseurl: /home
 # Site settings
 title: Rohan A J
 email: rohanaj2001@gmail.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Welcome to my personal website, where you can learn more about me and my interests! I am passionate about technology, design, and innovation, and I use this platform to showcase my projects and share my experiences. Browse my portfolio to see some of my latest work, read my blog for insights into my thought process, or get in touch with me directly to discuss collaboration opportunities. Thank you for visiting, and I hope you enjoy your stay!"
 
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+    url: https://twitter.com/Rohan_A_J
+  - title: instagram
+    url: https://www.instagram.com/aj_prototype/
+  - title: linkedin
+    url: https://www.linkedin.com/in/rohan-a-j-047a2319b/
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/rohanaj2001
+    
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Room No. 414, NRI Hostel
+  - line: MSRIT, Bangalore, 560054
 
 # Build settings
 markdown: kramdown

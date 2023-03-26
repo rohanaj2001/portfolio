@@ -1,0 +1,13 @@
+.flexing{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;  
+}
+.experience-logo{
+    margin-top: 10px;
+    height: 90%;
+    width: auto;
+    
+    background: transparent ;
+}

@@ -1,15 +1,15 @@
 ---
-title: MatchIt
+title: Ecell website
 subtitle: Full stack web-application
 layout: default
-modal-id: 2
+modal-id: 3
 date: 2022-04-15
 img: treehouse.png
 thumbnail: treehouse-thumbnail.png
 alt: image-alt
 project-date: April 2022
-client: Start Bootstrap
+client: Ecell-Ramaiah
 category: Full Stack Web Development
-description: matchIT is a website to find the best matching ties and trousers colors to your shirts. All you need to do is upload a pic of your shirt and matchIT's algorithm will show you the best matching tie and trouser colors you can wear with that shirt. In addition to that you can check the matching percentage of your whole attire.
+description: This is the website of Ecell-Ramaiah, designed by our team
 
 ---
