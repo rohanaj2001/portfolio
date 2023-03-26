@@ -1,0 +1,15 @@
+---
+title: Admin Panel
+subtitle: Full stack web-application
+layout: default
+modal-id: 1
+date: 2023-01-01
+img: treehouse.png
+thumbnail: treehouse-thumbnail.png
+alt: image-alt
+project-date: Jan 2023
+client: M S Ramaiah Medical College
+category: Full Stack Web Development
+description: Admin panel for Ophthalmology department, M S Ramaiah Hospital, bangalore.
+
+---
