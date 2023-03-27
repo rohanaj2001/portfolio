@@ -276,7 +276,7 @@ header {
     flex-direction: column;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/space.mp4');    
+    /* background-image: url('{{ site.baseurl }}/img/space.mp4');     */
     background-position: center ;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -369,6 +369,7 @@ section h3.section-subheading {
         padding: 150px 0;
     }
 }
+
 
 .service-heading {
     margin: 15px 0;
@@ -775,6 +776,11 @@ ul.social-buttons li a:active {
     outline: 0;
 }
 
+.modal-bg{
+    background-color: #222 !important;
+    color: #f5f3f3;
+}
+
 .portfolio-modal .modal-content {
     padding: 100px 0;
     min-height: 100%;
@@ -830,7 +836,7 @@ ul.social-buttons li a:active {
     width: 1px;
     height: 75px;
     margin-left: 35px;
-    background-color: #222;
+    background-color: #777777;
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
@@ -840,7 +846,7 @@ ul.social-buttons li a:active {
     z-index: 1052;
     width: 1px;
     height: 75px;
-    background-color: #222;
+    background-color: #777777;
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
