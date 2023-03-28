@@ -1,5 +1,5 @@
 ---
-title: Admin Panel
+title: Uveitis Admin Panel
 subtitle: Full stack web-application
 layout: default
 modal-id: 1
@@ -10,6 +10,6 @@ alt: image-alt
 project-date: Jan 2023
 client: M S Ramaiah Medical College
 category: Full Stack Web Development
-description: Admin panel for Ophthalmology department, M S Ramaiah Hospital, bangalore.
+description: Together with my team, we have designed and built a comprehensive software suite that includes a mobile app and website for Ramaiah Medical College and Hospital. Our suite is specifically tailored to help manage the records and track the progress of patients suffering from uveitis, also known as chorioretinitis. With our software suite, doctors and medical professionals can easily access patient information, track their progress and identify any potential issues. Our goal is to improve patient care by providing accurate and up-to-date information, enabling doctors to make informed decisions and ultimately improving patient outcomes. We are proud to have contributed to the success of Ramaiah Medical College and Hospital in providing high-quality care to patients suffering from uveitis..
 
 ---
