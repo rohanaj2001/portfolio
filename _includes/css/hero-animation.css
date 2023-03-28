@@ -2,7 +2,9 @@
     height: 20vh;
     /*This part is important for centering*/
     display: grid;
+    max-width: 100%;
     place-items: center;
+
   }
   
   .typing-demo {    
@@ -16,7 +18,7 @@
   }
   .typing-demo2{    
     animation-delay: 100ms;
-    /* width: 22ch; */
+    width: 22ch;
     animation: typing 5s steps(22), blink .5s step-end infinite alternate;
     white-space: nowrap;
     overflow: hidden;
@@ -41,10 +43,10 @@
 
   @import url("https://fonts.googleapis.com/css?family=Montserrat&display=swap");
 
-* {
+/* * {
   padding: 0;
   margin: 0;
-}
+} */
 
 /* body {
   height: 100vh;
@@ -153,4 +155,11 @@
     opacity: 1;
     filter: blur(0);
   }
+}
+
+
+@media(max-width:767px) {
+  .typing-demo {   
+    font-size: 1.4em; 
+}
 }

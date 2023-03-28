@@ -14,3 +14,5 @@
 .hover-dim:hover{ 
     background-color: #{{ site.data.template.color.secondary }} !important;
 }
+
+
