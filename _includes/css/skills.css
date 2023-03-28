@@ -1,0 +1,33 @@
+#skill-container-child0, #skill-container-child1{
+    display: none ;
+}
+@media (max-width : 1000px) {
+    
+    .skill-container {
+      display: grid;
+      /* grid-template-columns: repeat(2, 1fr);
+      grid-template-rows: repeat(6, 1fr); */
+      grid-template-columns: auto auto auto;
+      /* gap: 10px; */
+    }
+    #skill-container-child0, #skill-container-child1{
+        display: block;
+    }
+    }
+
+@media (max-width : 768px) {
+    
+.skill-container {
+  display: grid;
+  /* grid-template-columns: repeat(2, 1fr);
+  grid-template-rows: repeat(6, 1fr); */
+  grid-template-columns: auto auto;
+  /* gap: 10px; */
+}
+#skill-container-child1{
+    display: none !important;
+}
+#skill-container-child0{
+    display: block;
+}
+}
