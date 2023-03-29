@@ -3,4 +3,5 @@
 {% include css/hero-animation.css %}
 {% include css/googly-eyes.css %}
 {% include css/experience.css %}
+{% include css/skills.css %}
 {{ content }}

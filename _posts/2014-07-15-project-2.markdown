@@ -4,12 +4,12 @@ subtitle: Full stack web-application
 layout: default
 modal-id: 3
 date: 2022-04-15
-img: matchIt.png
-thumbnail: treehouse-thumbnail.png
+img: ecell.png
+thumbnail: ecell.png
 alt: image-alt
 project-date: April 2022
 client: Ecell-Ramaiah
 category: Full Stack Web Development
-description: This is the website of Ecell-Ramaiah, designed by our team
+description: I worked alongside my talented teammates to develop the website of Ecell-Ramaiah, the Entrepreneurship Development Cell of Ramaiah Institute of Technology. Our team's mission was to create an engaging, user-friendly platform that could inspire and educate students about entrepreneurship. With careful planning and creative design, we were able to create a visually stunning website that effectively communicates the goals and values of Ecell-Ramaiah. The site features a clean and intuitive interface that makes it easy for visitors to explore the various resources and initiatives offered by the Ecell-Ramaiah team. 
 
 ---

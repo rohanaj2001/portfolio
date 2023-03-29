@@ -4,12 +4,16 @@ subtitle: Full stack web-application
 layout: default
 modal-id: 2
 date: 2022-04-15
-img: admin-panel.png
-thumbnail: treehouse-thumbnail.png
+img: matchIt.png
+thumbnail: matchIt.png
 alt: image-alt
 project-date: April 2022
 client: Personal Project
 category: Full Stack Web Development
-description: matchIT is a website to find the best matching ties and trousers colors to your shirts. All you need to do is upload a pic of your shirt and matchIT's algorithm will show you the best matching tie and trouser colors you can wear with that shirt. In addition to that you can check the matching percentage of your whole attire.
+description: matchIT is an innovative website that helps you find the best matching tie and trouser colors for your shirts with just a simple upload of a photo. With matchIT, you can easily discover the ideal color combinations for your attire. This website takes the guesswork out of fashion, allowing you to create stylish and well-coordinated outfits in no time. What's more, matchIT provides a matching percentage for your entire outfit, ensuring that you look your best from head to toe. Whether you're dressing for a formal occasion or a casual day out, matchIT can help you put together the perfect outfit. With its user-friendly interface and sophisticated technology, matchIT is the ultimate fashion tool for anyone looking to up their style game.
+
+
+
+
 
 ---
